@@ -1,4 +1,4 @@
-# lognet
+# LoGNet
 LoGNet: Local and Global Triple Embedding Network
 
 LoGNet(Local and Global Triple Embedding Network) is a learning framework for triple-centric tasks in knowledge graphs (KGs). 
